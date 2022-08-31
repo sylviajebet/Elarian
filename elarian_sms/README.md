@@ -9,4 +9,4 @@ This demo is used for running a basic Node.js application, to enable sending an 
 #### To Run
 
 Enter the following command on terminal:
-> npm run start
+    npm run start
